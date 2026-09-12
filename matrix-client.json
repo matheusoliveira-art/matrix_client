@@ -1,0 +1,12 @@
+{
+  "name": "Matrix Client",
+  "type": "MineFun.io mod menu",
+  "version": "1.0.0",
+  "discord": "https://discord.gg/Ma7pz4R8tw",
+  "repository": "https://github.com/matheusoliveira-art/matrix_client",
+  "integratedMods": [
+    "Stopwatch",
+    "Mouse Trail",
+    "Display Enhancer"
+  ]
+}
